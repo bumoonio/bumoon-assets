@@ -1,33 +1,11 @@
 {
     "name": "BUMooN",
     "website": "https://bumoon.io",
-    "description": "Cryptocurrency Eco-Token For Effective Yield Farming with Reflect Finance Concept Driven By Eco-Living - Enviromental Projects and It's Strong Community",
-    "explorer": "https://bscscan.com/token/0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e",
+    "description": "BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user.",
+    "explorer": "https://bscscan.com/token/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e",
     "type": "BEP20",
     "symbol": "BUMN",
     "decimals": 9,
     "status": "active",
-    "id": "0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bumoonio/bumoon"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Bumoon_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/joinchat/KPcIo1MtMdY1ZDM1"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://bumoon.io/BUMooN%20Whitepaper.pdf"
-        },
-        {
-            "name": "facebook",
-            "url": "https://www.facebook.com/BUMooNio-102624585390653"
-        }
-    ]
+    "id": "0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e"
 }
