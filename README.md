@@ -34,8 +34,7 @@
 ## Information
 
 This assets repository accommodates basic information tokens and logos that consumed directly by Boo! apps,
-via <a href="https://jsdelivr.com">jsDelivr</a>, currently we don't implement any dedicated server to be Boo! apps backbone
-and simply we wanted to keep decentralized manner as if Boo! apps directly communicate with public blockchain RPC
+via <a href="https://jsdelivr.com">jsDelivr</a>.
 
 ### Fork
 
