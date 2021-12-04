@@ -4,13 +4,13 @@
             "title": "Boo! Initial Release",
             "subtitle": "We glad to announce that we had release our apps at the first stage",
             "action": "https://docs.bumoon.io/news/news/boo-tm-initial-release",
-            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/storebanner.png"
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/storebanner.jpg"
         },
         {
-            "title": "Partnership with Moralis.io!",
-            "subtitle": "We happy to announce Boo! is backed by a professional blockchain data provider Moralis.io!",
+            "title": "Partnership with Moralis.io",
+            "subtitle": "We happy to announce Boo! is backed by a professional blockchain data provider!",
             "action": "https://docs.bumoon.io/news/news/boo-tm-initial-release",
-            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/storebanner.png"
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/banner-moralis.png"
         }
     ]
 }
