@@ -1,6 +1,12 @@
 {
     "news": [
         {
+            "title": "Boo! v1.0.2+",
+            "subtitle": "Learn more with new features available starting from version 1.0.2",
+            "action": "https://docs.bumoon.io/news/news/boo-v1.0.2+",
+            "image": "https://raw.githubusercontent.com/bumoonio/bumoon-assets/master/news/banner-v102.png"
+        },
+        {
             "title": "Flash Hero | Road to CMC",
             "subtitle": "Flash Hero is the first Metahero reflection token, Hold Flash Hero And Earn Meta Hero!",
             "action": "https://docs.bumoon.io/news/promoted/flash-hero-or-road-to-cmc",
