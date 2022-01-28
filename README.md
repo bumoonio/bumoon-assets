@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/bumoonio/bumoon-assets">
-    <img src="flag.png" alt="Logo" width="30%" height="30%">
+    <img src="flag.png" alt="Logo" width="50%" height="50%">
   </a>
 
   <h1 style="font-weight:bold" align="center">BUMooN Assets</h1>
@@ -36,9 +36,7 @@
 This assets repository accommodates basic information tokens and logos that consumed directly by Boo! apps,
 via <a href="https://jsdelivr.com">jsDelivr</a>.
 
-### Fork
 
-* [TrustWallet-assets](https://github.com/trustwallet/assets)
 
 ## Roadmap
 
