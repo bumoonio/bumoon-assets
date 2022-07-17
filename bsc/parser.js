@@ -49,12 +49,12 @@ for (var i = 0; i < temp.length; i++) {
     }
 
 }
-obj.tokenlist.splice(obj.tokenlist.findIndex(x => x.address == "0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e"), 1)
-obj.tokenlist.splice(0, 0, {
-    'symbol': 'BUMN',
-    'name': 'BUMooN',
-    'address': '0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e',
-});
+// obj.tokenlist.splice(obj.tokenlist.findIndex(x => x.address == "0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e"), 1)
+// obj.tokenlist.splice(0, 0, {
+//     'symbol': 'BUMN',
+//     'name': 'BUMooN',
+//     'address': '0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e',
+// });
 
 console.log(obj)
 var json = JSON.stringify(obj);
