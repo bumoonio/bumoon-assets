@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/bumoonio/bumoon-assets">
-    <img src="flag.png" alt="Logo" width="50%" height="50%">
+    <img src="logo.png" alt="Logo" width="50%" height="50%">
   </a>
 
   <h1 style="font-weight:bold" align="center">BUMooN Assets</h1>
