@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://github.com/bumoonio/bumoon-assets">
-    <img src="logos.png" alt="Logo" width="50%" height="50%">
+    <img src="logomain.png" alt="Logo" width="50%" height="50%">
   </a>
 
-  <h1 style="font-weight:bold" align="center">BUMooN Assets</h1>
+  <h1 style="font-weight:bold" align="center">Bobablocks Assets</h1>
 
   <p align="center">
-    Assets repository for Boo! Apps <br> This repository contains static files, tokens information, and such
+    Assets repository for Bobablocks <br> This repository contains static files, tokens information, etc.
   
   </p>
 </p>
@@ -31,16 +31,10 @@
 </p>
 
 
-## Information
+## Add Assets
 
-This assets repository accommodates basic information tokens and logos that consumed directly by Boo! apps,
-via <a href="https://jsdelivr.com">jsDelivr</a>.
+Just create a pull request and feel free to add your assets to this repository. no additional fee required.
 
-
-
-## Roadmap
-
-Don't get the wrong idea : [Read The Docs](https://bumoon.io/BUMooN%20Whitepaper.pdf)
 
 
 
